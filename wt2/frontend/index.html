@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>IPL chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>IPL chart</h1>
+    </header>
+    <main>
+      <div id="selectorContainer">
+        <select name="seasonName" id="seasonName">
+          <option value="SEASON 2024">SEASON 2024</option>
+          <option value="SEASON 2023">SEASON 2023</option>
+          <option value="SEASON 2022">SEASON 2022</option>
+          <option value="SEASON 2021">SEASON 2021</option>
+          <option value="SEASON 2020">SEASON 2020</option>
+        </select>
+        <select name="stateType" id="stateType">
+          <option value="topTenOrangeCapPlayers">Orange cap</option>
+          <option value="topTenMostFoursPlayers">Most fours</option>
+          <option value="topTenMostSixsPlayers">Most sixes</option>
+          <option value="topTenMostFiftiesPlayers">Most fifties</option>
+          <option value="topTenMostCenturiesPlayers">Most centuries</option>
+        </select>
+      </div>
+      <div id="chartContainer"></div>
+    </main>
+    <script type="module" src="./script.js"></script>
+  </body>
+</html>

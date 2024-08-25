@@ -1,0 +1,293 @@
+{
+    "SEASON 2020": {
+      "topTenOrangeCapPlayers": [
+        { "playerName": "KL Rahul", "playerScore": "670" },
+        { "playerName": "Shikhar Dhawan", "playerScore": "618" },
+        { "playerName": "David Warner", "playerScore": "548" },
+        { "playerName": "Shreyas Iyer", "playerScore": "519" },
+        { "playerName": "Ishan Kishan", "playerScore": "516" },
+        { "playerName": "Quinton de Kock", "playerScore": "503" },
+        { "playerName": "Suryakumar Yadav", "playerScore": "480" },
+        { "playerName": "Devdutt Padikkal", "playerScore": "473" },
+        { "playerName": "Virat Kohli", "playerScore": "466" },
+        { "playerName": "AB de Villiers", "playerScore": "454" }
+      ],
+      "topTenMostFoursPlayers": [
+        { "playerName": "KL Rahul", "playerScore": "14" },
+        { "playerName": "Ben Stokes", "playerScore": "14" },
+        { "playerName": "Shikhar Dhawan", "playerScore": "14" },
+        { "playerName": "Nitish Rana", "playerScore": "13" },
+        { "playerName": "Wriddhiman Saha", "playerScore": "12" },
+        { "playerName": "Shikhar Dhawan", "playerScore": "12" },
+        { "playerName": "Devdutt Padikkal", "playerScore": "12" },
+        { "playerName": "Suryakumar Yadav", "playerScore": "11" },
+        { "playerName": "Faf du Plessis", "playerScore": "11" },
+        { "playerName": "Shane Watson", "playerScore": "11" }
+      ],
+      "topTenMostSixsPlayers": [
+        { "playerName": "Sanju Samson", "playerScore": "9" },
+        { "playerName": "Ishan Kishan", "playerScore": "9" },
+        { "playerName": "Manish Pandey", "playerScore": "8" },
+        { "playerName": "Chris Gayle", "playerScore": "8" },
+        { "playerName": "Hardik Pandya", "playerScore": "7" },
+        { "playerName": "Mayank Agarwal", "playerScore": "7" },
+        { "playerName": "Nicholas Pooran", "playerScore": "7" },
+        { "playerName": "Sanju Samson", "playerScore": "7" },
+        { "playerName": "Faf du Plessis", "playerScore": "7" },
+        { "playerName": "KL Rahul", "playerScore": "7" }
+      ],
+      "topTenMostFiftiesPlayers": [
+        { "playerName": "KL Rahul", "playerScore": "5" },
+        { "playerName": "Devdutt Padikkal", "playerScore": "5" },
+        { "playerName": "AB de Villiers", "playerScore": "5" },
+        { "playerName": "Shikhar Dhawan", "playerScore": "4" },
+        { "playerName": "David Warner", "playerScore": "4" },
+        { "playerName": "Ishan Kishan", "playerScore": "4" },
+        { "playerName": "Quinton de Kock", "playerScore": "4" },
+        { "playerName": "Suryakumar Yadav", "playerScore": "4" },
+        { "playerName": "Faf du Plessis", "playerScore": "4" },
+        { "playerName": "Shreyas Iyer", "playerScore": "3" }
+      ],
+      "topTenMostCenturiesPlayers": [
+        { "playerName": "Shikhar Dhawan", "playerScore": "2" },
+        { "playerName": "KL Rahul", "playerScore": "1" },
+        { "playerName": "Mayank Agarwal", "playerScore": "1" },
+        { "playerName": "Ben Stokes", "playerScore": "1" }
+      ]
+    },
+    "SEASON 2021": {
+      "topTenOrangeCapPlayers": [
+        { "playerName": "Ruturaj Gaikwad", "playerScore": "635" },
+        { "playerName": "Faf du Plessis", "playerScore": "633" },
+        { "playerName": "KL Rahul", "playerScore": "626" },
+        { "playerName": "Shikhar Dhawan", "playerScore": "587" },
+        { "playerName": "Glenn Maxwell", "playerScore": "513" },
+        { "playerName": "Sanju Samson", "playerScore": "484" },
+        { "playerName": "Prithvi Shaw", "playerScore": "479" },
+        { "playerName": "Shubman Gill", "playerScore": "478" },
+        { "playerName": "Mayank Agarwal", "playerScore": "441" },
+        { "playerName": "Rishabh Pant", "playerScore": "419" }
+      ],
+      "topTenMostFoursPlayers": [
+        { "playerName": "Suryakumar Yadav", "playerScore": "13" },
+        { "playerName": "Shikhar Dhawan", "playerScore": "13" },
+        { "playerName": "Sanju Samson", "playerScore": "12" },
+        { "playerName": "Ruturaj Gaikwad", "playerScore": "12" },
+        { "playerName": "Ishan Kishan", "playerScore": "11" },
+        { "playerName": "Prithvi Shaw", "playerScore": "11" },
+        { "playerName": "Devdutt Padikkal", "playerScore": "11" },
+        { "playerName": "Jos Buttler", "playerScore": "11" },
+        { "playerName": "Shikhar Dhawan", "playerScore": "10" },
+        { "playerName": "Shubman Gill", "playerScore": "10" }
+      ],
+      "topTenMostSixsPlayers": [
+        { "playerName": "Kieron Pollard", "playerScore": "8" },
+        { "playerName": "KL Rahul", "playerScore": "8" },
+        { "playerName": "Jos Buttler", "playerScore": "8" },
+        { "playerName": "Ambati Rayudu", "playerScore": "7" },
+        { "playerName": "Sanju Samson", "playerScore": "7" },
+        { "playerName": "Andre Russell", "playerScore": "6" },
+        { "playerName": "Deepak Hooda", "playerScore": "6" },
+        { "playerName": "Devdutt Padikkal", "playerScore": "6" },
+        { "playerName": "Pat Cummins", "playerScore": "6" },
+        { "playerName": "Ravindra Jadeja", "playerScore": "5" }
+      ],
+      "topTenMostFiftiesPlayers": [
+        { "playerName": "Faf du Plessis", "playerScore": "6" },
+        { "playerName": "KL Rahul", "playerScore": "6" },
+        { "playerName": "Glenn Maxwell", "playerScore": "6" },
+        { "playerName": "Ruturaj Gaikwad", "playerScore": "4" },
+        { "playerName": "Prithvi Shaw", "playerScore": "4" },
+        { "playerName": "Mayank Agarwal", "playerScore": "4" },
+        { "playerName": "Venkatesh Iyer", "playerScore": "4" },
+        { "playerName": "Shikhar Dhawan", "playerScore": "3" },
+        { "playerName": "Shubman Gill", "playerScore": "3" },
+        { "playerName": "Rishabh Pant", "playerScore": "3" }
+      ],
+      "topTenMostCenturiesPlayers": [
+        { "playerName": "Ruturaj Gaikwad", "playerScore": "1" },
+        { "playerName": "Sanju Samson", "playerScore": "1" },
+        { "playerName": "Devdutt Padikkal", "playerScore": "1" },
+        { "playerName": "Jos Buttler", "playerScore": "1" }
+      ]
+    },
+    "SEASON 2022": {
+      "topTenOrangeCapPlayers": [
+        { "playerName": "Jos Buttler", "playerScore": "863" },
+        { "playerName": "K L Rahul", "playerScore": "616" },
+        { "playerName": "Quinton De Kock", "playerScore": "508" },
+        { "playerName": "Hardik Pandya", "playerScore": "487" },
+        { "playerName": "Shubman Gill", "playerScore": "483" },
+        { "playerName": "David Miller", "playerScore": "481" },
+        { "playerName": "Faf Du Plessis", "playerScore": "468" },
+        { "playerName": "Shikhar Dhawan", "playerScore": "460" },
+        { "playerName": "Sanju Samson", "playerScore": "458" },
+        { "playerName": "Deepak Hooda", "playerScore": "451" }
+      ],
+      "topTenMostFoursPlayers": [
+        { "playerName": "Moeen Ali", "playerScore": "13" },
+        { "playerName": "K L Rahul", "playerScore": "12" },
+        { "playerName": "Jos Buttler", "playerScore": "12" },
+        { "playerName": "David Warner", "playerScore": "12" },
+        { "playerName": "Rajat Patidar", "playerScore": "12" },
+        { "playerName": "Shubman Gill", "playerScore": "11" },
+        { "playerName": "Faf Du Plessis", "playerScore": "11" },
+        { "playerName": "Ishan Kishan", "playerScore": "11" },
+        { "playerName": "Jos Buttler", "playerScore": "11" },
+        { "playerName": "Wriddhiman Saha", "playerScore": "11" }
+      ],
+      "topTenMostSixsPlayers": [
+        { "playerName": "Quinton De Kock", "playerScore": "10" },
+        { "playerName": "Robin Uthappa", "playerScore": "9" },
+        { "playerName": "Jos Buttler", "playerScore": "9" },
+        { "playerName": "Andre Russell", "playerScore": "8" },
+        { "playerName": "Shivam Dube", "playerScore": "8" },
+        { "playerName": "Mitchell Marsh", "playerScore": "7" },
+        { "playerName": "Faf Du Plessis", "playerScore": "7" },
+        { "playerName": "Jonny Bairstow", "playerScore": "7" },
+        { "playerName": "Rajat Patidar", "playerScore": "7" },
+        { "playerName": "Pat Cummins", "playerScore": "6" }
+      ],
+      "topTenMostFiftiesPlayers": [
+        { "playerName": "David Warner", "playerScore": "5" },
+        { "playerName": "Liam Livingstone", "playerScore": "4" },
+        { "playerName": "Deepak Hooda", "playerScore": "4" },
+        { "playerName": "Hardik Pandya", "playerScore": "4" },
+        { "playerName": "K L Rahul", "playerScore": "4" },
+        { "playerName": "Shubman Gill", "playerScore": "4" },
+        { "playerName": "Jos Buttler", "playerScore": "4" },
+        { "playerName": "Devon Conway", "playerScore": "3" },
+        { "playerName": "Suryakumar Yadav", "playerScore": "3" },
+        { "playerName": "Wriddhiman Saha", "playerScore": "3" }
+      ],
+      "topTenMostCenturiesPlayers": [
+        { "playerName": "Jos Buttler", "playerScore": "4" },
+        { "playerName": "K L Rahul", "playerScore": "2" },
+        { "playerName": "Rajat Patidar", "playerScore": "1" },
+        { "playerName": "Quinton De Kock", "playerScore": "1" }
+      ]
+    },
+    "SEASON 2023": {
+      "topTenOrangeCapPlayers": [
+        { "playerName": "Shubman Gill", "playerScore": "890" },
+        { "playerName": "Faf Du Plessis", "playerScore": "730" },
+        { "playerName": "Devon Conway", "playerScore": "672" },
+        { "playerName": "Virat Kohli", "playerScore": "639" },
+        { "playerName": "Yashasvi Jaiswal", "playerScore": "625" },
+        { "playerName": "Suryakumar Yadav", "playerScore": "605" },
+        { "playerName": "Ruturaj Gaikwad", "playerScore": "590" },
+        { "playerName": "David Warner", "playerScore": "516" },
+        { "playerName": "Rinku Singh", "playerScore": "474" },
+        { "playerName": "Ishan Kishan", "playerScore": "454" }
+      ],
+      "topTenMostFoursPlayers": [
+        { "playerName": "Yashasvi Jaiswal", "playerScore": "16" },
+        { "playerName": "Devon Conway", "playerScore": "16" },
+        { "playerName": "Virat Kohli", "playerScore": "13" },
+        { "playerName": "Shubman Gill", "playerScore": "13" },
+        { "playerName": "Abhishek Sharma", "playerScore": "12" },
+        { "playerName": "Harry Brook", "playerScore": "12" },
+        { "playerName": "Virat Kohli", "playerScore": "12" },
+        { "playerName": "Yashasvi Jaiswal", "playerScore": "12" },
+        { "playerName": "Shikhar Dhawan", "playerScore": "12" },
+        { "playerName": "Devon Conway", "playerScore": "12" }
+      ],
+      "topTenMostSixsPlayers": [
+        { "playerName": "Shubman Gill", "playerScore": "10" },
+        { "playerName": "Rashid Khan", "playerScore": "10" },
+        { "playerName": "Liam Livingstone", "playerScore": "9" },
+        { "playerName": "Ruturaj Gaikwad", "playerScore": "9" },
+        { "playerName": "Venkatesh Iyer", "playerScore": "9" },
+        { "playerName": "Cameron Green", "playerScore": "8" },
+        { "playerName": "Yashasvi Jaiswal", "playerScore": "8" },
+        { "playerName": "Shubman Gill", "playerScore": "8" },
+        { "playerName": "Marcus Stoinis", "playerScore": "8" },
+        { "playerName": "Glenn Maxwell", "playerScore": "8" }
+      ],
+      "topTenMostFiftiesPlayers": [
+        { "playerName": "Faf Du Plessis", "playerScore": "8" },
+        { "playerName": "David Warner", "playerScore": "6" },
+        { "playerName": "Virat Kohli", "playerScore": "6" },
+        { "playerName": "Devon Conway", "playerScore": "6" },
+        { "playerName": "Yashasvi Jaiswal", "playerScore": "5" },
+        { "playerName": "Glenn Maxwell", "playerScore": "5" },
+        { "playerName": "Suryakumar Yadav", "playerScore": "5" },
+        { "playerName": "Kyle Mayers", "playerScore": "4" },
+        { "playerName": "Rinku Singh", "playerScore": "4" },
+        { "playerName": "Jos Buttler", "playerScore": "4" }
+      ],
+      "topTenMostCenturiesPlayers": [
+        { "playerName": "Shubman Gill", "playerScore": "3" },
+        { "playerName": "Virat Kohli", "playerScore": "2" },
+        { "playerName": "Heinrich Klaasen", "playerScore": "1" },
+        { "playerName": "Harry Brook", "playerScore": "1" },
+        { "playerName": "Yashasvi Jaiswal", "playerScore": "1" },
+        { "playerName": "Venkatesh Iyer", "playerScore": "1" },
+        { "playerName": "Simran Singh", "playerScore": "1" },
+        { "playerName": "Suryakumar Yadav", "playerScore": "1" },
+        { "playerName": "Cameron Green", "playerScore": "1" }
+      ]
+    },
+    "SEASON 2024": {
+      "topTenOrangeCapPlayers": [
+        { "playerName": "Virat Kohli", "playerScore": "661" },
+        { "playerName": "Ruturaj Gaikwad", "playerScore": "583" },
+        { "playerName": "Travis Head", "playerScore": "533" },
+        { "playerName": "Sai Sudharsan", "playerScore": "527" },
+        { "playerName": "Sanju Samson", "playerScore": "486" },
+        { "playerName": "Riyan Parag", "playerScore": "483" },
+        { "playerName": "K L Rahul", "playerScore": "465" },
+        { "playerName": "Sunil Narine", "playerScore": "461" },
+        { "playerName": "Rishabh Pant", "playerScore": "446" },
+        { "playerName": "Phil Salt", "playerScore": "435" }
+      ],
+      "topTenMostFoursPlayers": [
+        { "playerName": "Phil Salt", "playerScore": "14" },
+        { "playerName": "Marcus Stoinis", "playerScore": "13" },
+        { "playerName": "Sunil Narine", "playerScore": "13" },
+        { "playerName": "Virat Kohli", "playerScore": "12" },
+        { "playerName": "Suryakumar Yadav", "playerScore": "12" },
+        { "playerName": "Ruturaj Gaikwad", "playerScore": "12" },
+        { "playerName": "Jake Fraser - McGurk", "playerScore": "11" },
+        { "playerName": "Virat Kohli", "playerScore": "11" },
+        { "playerName": "Travis Head", "playerScore": "11" },
+        { "playerName": "Rohit Sharma", "playerScore": "11" }
+      ],
+      "topTenMostSixsPlayers": [
+        { "playerName": "Will Jacks", "playerScore": "10" },
+        { "playerName": "Jonny Bairstow", "playerScore": "9" },
+        { "playerName": "Nitish Kumar Reddy", "playerScore": "8" },
+        { "playerName": "Shashank Singh", "playerScore": "8" },
+        { "playerName": "Travis Head", "playerScore": "8" },
+        { "playerName": "Travis Head", "playerScore": "8" },
+        { "playerName": "Rishabh Pant", "playerScore": "8" },
+        { "playerName": "Heinrich Klaasen", "playerScore": "8" },
+        { "playerName": "Heinrich Klaasen", "playerScore": "7" },
+        { "playerName": "Yashasvi Jaiswal", "playerScore": "7" }
+      ],
+      "topTenMostFiftiesPlayers": [
+        { "playerName": "Rajat Patidar", "playerScore": "5" },
+        { "playerName": "Sanju Samson", "playerScore": "5" },
+        { "playerName": "Virat Kohli", "playerScore": "5" },
+        { "playerName": "Jake Fraser - McGurk", "playerScore": "4" },
+        { "playerName": "Riyan Parag", "playerScore": "4" },
+        { "playerName": "Travis Head", "playerScore": "4" },
+        { "playerName": "Phil Salt", "playerScore": "4" },
+        { "playerName": "Ruturaj Gaikwad", "playerScore": "4" },
+        { "playerName": "Suryakumar Yadav", "playerScore": "3" },
+        { "playerName": "Heinrich Klaasen", "playerScore": "3" }
+      ],
+      "topTenMostCenturiesPlayers": [
+        { "playerName": "Jos Buttler", "playerScore": "2" },
+        { "playerName": "Will Jacks", "playerScore": "1" },
+        { "playerName": "Suryakumar Yadav", "playerScore": "1" },
+        { "playerName": "Jonny Bairstow", "playerScore": "1" },
+        { "playerName": "Travis Head", "playerScore": "1" },
+        { "playerName": "Sai Sudharsan", "playerScore": "1" },
+        { "playerName": "Sunil Narine", "playerScore": "1" },
+        { "playerName": "Shubman Gill", "playerScore": "1" },
+        { "playerName": "Yashasvi Jaiswal", "playerScore": "1" },
+        { "playerName": "Virat Kohli", "playerScore": "1" }
+      ]
+    }
+  }
