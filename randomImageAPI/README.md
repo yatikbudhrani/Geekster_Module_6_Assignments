@@ -8,7 +8,7 @@ This project sets up a Node.js server using Express.js and provides an API endpo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yatikbudhrani/Geekster_Module_6_Assignments/tree/main/randomImageAPI
+    git clone `https://github.com/yatikbudhrani/Geekster_Module_6_Assignments/tree/main/randomImageAPI`
     ```
 
 2. Navigate to the project directory:
