@@ -1,0 +1,14 @@
+{
+  "name": "middleware-user-registration",
+  "version": "1.0.0",
+  "description": "an error handling middleware for a user registration system",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Yatik Budhrani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
